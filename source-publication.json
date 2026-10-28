@@ -1,0 +1,79 @@
+{
+  "SchemaVersion": 1,
+  "Project": "AnnualHelicopter",
+  "Repository": "antikristianos/AnnualHelicopter",
+  "Branch": "wip",
+  "Tag": "wip-1.63",
+  "ModVersion": "1.2",
+  "CollectionVersion": "1.63",
+  "WorkshopId": 3802764936,
+  "WorkshopUrl": "https://steamcommunity.com/sharedfiles/filedetails/?id=3802764936",
+  "UploadManifestSha256": "2DF2A9D193786BC163CE4EA9E9B6232EE0819F421B726E8CA65CB59859AB0AD7",
+  "Artifact": {
+    "Path": "mods/AnnualHelicopter_WIP/42.20/media/java/AnnualHelicopter.jar",
+    "Size": 5103,
+    "Sha256": "99E03C36466EAB46024E6FB393BE194B62298B5FD514942C02C4900F3EE7BF49"
+  },
+  "Sources": [
+    {
+      "Path": ".gitignore",
+      "Size": 8,
+      "Sha256": "020C2606E8ED484089C2083E0BE438B9D0736BEE1558A6B76AF0D58BD23F69CF"
+    },
+    {
+      "Path": "MANIFEST.MF",
+      "Size": 152,
+      "Sha256": "4EE4A5ADE904B405E8F1B2D69C69AE33139AF9992257F070C67E48B04E5DDF9C"
+    },
+    {
+      "Path": "README.md",
+      "Size": 1274,
+      "Sha256": "7744877860C574B0C39D67EEF39D9F5859B42CCD93DD56AFCC8D7F3E5B0E15BA"
+    },
+    {
+      "Path": "build.json",
+      "Size": 1471,
+      "Sha256": "9BE51DA4B9B7CAA3D829058A18C905C5620CABD03400D0ECDBD44D606A3CF1BF"
+    },
+    {
+      "Path": "build.ps1",
+      "Size": 2600,
+      "Sha256": "8389B7B0B5515387FA5D9B3989FED7C8629DA7762817C03AD266B69DE5B2B0FD"
+    },
+    {
+      "Path": "runtime/42.20/mod.info",
+      "Size": 396,
+      "Sha256": "55425C56B34C7C6D82C28A197CDB430E457FFBCD1076D050089B08D4BC2AADAB"
+    },
+    {
+      "Path": "runtime/common/media/lua/shared/Translate/EN/Sandbox.json",
+      "Size": 56,
+      "Sha256": "A7250E5C05BC1159378F392BB58294B869CCFA0FD96CC096CB06D63AE1F3AEAB"
+    },
+    {
+      "Path": "src/antikristianos/annualhelicopter/AnnualHelicopterOptionSupport.java",
+      "Size": 1452,
+      "Sha256": "65299241EE7502A6DE76B8040141FB1E16807EDDA33FED1A552510FC49482DFB"
+    },
+    {
+      "Path": "src/antikristianos/annualhelicopter/AnnualHelicopterRuntime.java",
+      "Size": 1162,
+      "Sha256": "4B39C1D957B241143518B459D82CDFC4165D9E7662D1DD26076501A5FDA29F72"
+    },
+    {
+      "Path": "src/antikristianos/annualhelicopter/AnnualHelicopterSchedule.java",
+      "Size": 932,
+      "Sha256": "97A54BC7E007BB80D883DBB2F2C0E29E0F68B28FD19F47262A0CD8B74964C730"
+    },
+    {
+      "Path": "src/antikristianos/annualhelicopter/PatchEnumConfigOptionConstructor.java",
+      "Size": 748,
+      "Sha256": "B4F72E3A6C758957EAC0BFD976226256111E2AEBA45D31AC3A4147A3ACE70F8A"
+    },
+    {
+      "Path": "src/antikristianos/annualhelicopter/PatchGameTimeUpdate.java",
+      "Size": 542,
+      "Sha256": "45AEC88A64DC01AF68AC6059D7FA36BD1911907B714B5C1F205E60D3BD457281"
+    }
+  ]
+}
