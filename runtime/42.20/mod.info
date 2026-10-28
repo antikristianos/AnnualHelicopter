@@ -1,0 +1,13 @@
+name=Annual Helicopter
+id=AnnualHelicopter
+author=Antikristianos
+description=Adds a fifth helicopter frequency: Once a Year. Requires ZombieBuddy on clients and servers.
+icon=../common/icon.png
+require=\ZombieBuddy
+javaJarFile=media/java/AnnualHelicopter.jar
+javaPkgName=antikristianos.annualhelicopter
+ZBVersionMin=2.3.2
+modversion=1.2
+versionMin=42.20.0
+incompatible=AnnualHelicopter_WIP
+poster=../common/poster.png

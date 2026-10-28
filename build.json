@@ -1,0 +1,44 @@
+{
+  "JavaRelease": 17,
+  "JarName": "AnnualHelicopter.jar",
+  "AdditionalClasspath": [],
+  "Entries": [
+    {
+      "Path": "antikristianos/annualhelicopter/AnnualHelicopterOptionSupport.class",
+      "Size": 1666,
+      "Sha256": "C89CA2335CD7DE716DD11DEFB087AA516D88C2A5F2FCB0DFE5E7ECA00BA8FCF6"
+    },
+    {
+      "Path": "antikristianos/annualhelicopter/AnnualHelicopterRuntime.class",
+      "Size": 1209,
+      "Sha256": "0562A4EF13B9456E6A1020F2EC730F9E85F3E6C3F1B3DD66C115E840EB8934BA"
+    },
+    {
+      "Path": "antikristianos/annualhelicopter/AnnualHelicopterSchedule.class",
+      "Size": 858,
+      "Sha256": "5BBF9040FAD0C9645F66B7527F19C7AD961361E93850761C927A6F2203328DDD"
+    },
+    {
+      "Path": "antikristianos/annualhelicopter/PatchEnumConfigOptionConstructor.class",
+      "Size": 1391,
+      "Sha256": "5AC55E42F0FB9B84E7181915F94652CC01DC0CEDB0C0A1C2C99EAC0B1719F376"
+    },
+    {
+      "Path": "antikristianos/annualhelicopter/PatchGameTimeUpdate.class",
+      "Size": 1096,
+      "Sha256": "C5BE2B7424BBE1025A6ED50E3A3087BE6FF83B728246328ED2015BEF04BA17D1"
+    }
+  ],
+  "Dependencies": [
+    {
+      "Path": "projectzomboid.jar",
+      "Size": 66254409,
+      "Sha256": "90C54B84EBC160AE053CBEFE30C7713826CA4FDB4934FDE53C9EBDE0FF9892F3"
+    },
+    {
+      "Path": "ZombieBuddy.jar",
+      "Size": 12491692,
+      "Sha256": "79120880FDA051718082BD9BF0C2C2B639450AE73641FDB4631750221A57B208"
+    }
+  ]
+}
