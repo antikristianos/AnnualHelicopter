@@ -3,12 +3,12 @@
   "Project": "AnnualHelicopter",
   "Repository": "antikristianos/AnnualHelicopter",
   "Branch": "wip",
-  "Tag": "wip-1.83",
+  "Tag": "wip-1.84",
   "ModVersion": "1.2",
-  "CollectionVersion": "1.83",
+  "CollectionVersion": "1.84",
   "WorkshopId": 3802764936,
   "WorkshopUrl": "https://steamcommunity.com/sharedfiles/filedetails/?id=3802764936",
-  "UploadManifestSha256": "B0983CE5AAB18AE48396CD36F752A6A31C01D20AF89B7AD8E665BE18C832D238",
+  "UploadManifestSha256": "8FD533D1C5DF3E2680193AC55A05A0C01046B4C42E3D20011526B56598AA6615",
   "Artifact": {
     "Path": "mods/AnnualHelicopter_WIP/42.20/media/java/AnnualHelicopter.jar",
     "Size": 5103,
@@ -33,7 +33,7 @@
     {
       "Path": "build.json",
       "Size": 1471,
-      "Sha256": "6F76F00D95C1F2CC15A8985FD9615731AEAADEEEFC8765048952382F3064821E"
+      "Sha256": "82F85B198B42365B15214B437C21C4D23E5A2D9BF7E3B62701C3BDEFC64BA0C8"
     },
     {
       "Path": "build.ps1",
